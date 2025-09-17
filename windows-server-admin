@@ -1,0 +1,17 @@
+# 🖥️ Windows Server Administration Project
+
+This project demonstrates my ability to set up and manage **Windows Server 2019** environments using virtualization tools.
+
+## 🚀 Features
+- Configured Windows Server 2019 virtual machines in VMware/VirtualBox
+- Created and managed **Active Directory domains, user accounts, and organizational units**
+- Configured **file servers** and tested **NTFS permissions**
+- Applied **Group Policy Objects (GPOs)** to manage security and configurations
+
+## ⚙️ How to Run
+1. Install VMware Workstation or Oracle VirtualBox  
+2. Create a new VM with Windows Server 2019 ISO  
+3. Configure AD DS and create domains and OUs  
+4. Apply GPOs and test permissions  
+
+## 📸 Screenshots
