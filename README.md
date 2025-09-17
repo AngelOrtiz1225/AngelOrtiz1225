@@ -50,7 +50,7 @@
 
 ## 🔗 Connect with Me
 
-- 💼 LinkedIn: [linkedin.com/in/angel-ortiz](#)  
+- 💼 LinkedIn: [linkedin.com/in/angelortizit](https://www.linkedin.com/in/angelortizit)  
 - 📧 Email: [angelortizj@outlook.com](mailto:angelortizj@outlook.com)  
 - 🌍 Location: Kissimmee, Florida  
 
